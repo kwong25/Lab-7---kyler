@@ -19,7 +19,7 @@
             <div class="left" style="background-color:#aaa;">
 
             <h2>Food</h2>
-            <img src="images/flag.png", alt = "The Chicago flag">
+            <img src="images/flag.png" alt = "The Chicago flag">
 
             <h4>Vienna Beef</h4>
             <img src="images/hot_dog.jpg" alt="A Chicago style hot dog">
@@ -44,29 +44,29 @@
             <iframe class = "subheader-right" src="https://www.google.com/maps/d/u/1/embed?mid=1qrZa2YOQatOWMrsa8LAeQRR7qjSEKoUT" width="400" height="250"></iframe>
 
             <h3>Field Museum of Natural History</h3>
-            <img src="images/field_museum.jpg", alt="Field Museum of Natural History">
+            <img src="images/field_museum.jpg" alt="Field Museum of Natural History">
             <p>The Field Museum of Natural History features over 30 permanent exhibits on wildlife, ancient cultures, pre-Columbian America, geology, fossils, and more.  Home to Sue the T. rex.</p>
 
             <h3>Museum of Science and Industry</h3>
-            <img src="images/msi.jpg", alt="Museum of Science and Industry">
+            <img src="images/msi.jpg" alt="Museum of Science and Industry">
             <p>The museum features numerous interactive experiences, from flight and coal mine simulations to a recreated Chicago street circa 1910.  Home to the U-505 German submarine.</p>
 
             <h3>Art Institute of Chicago</h3>
-            <img src="images/art_institute.jpg", alt="Art Institute of Chicago">
+            <img src="images/art_institute.jpg" alt="Art Institute of Chicago">
             <p>The institute holds more than 30,000 pieces in its collection.  From pop art to medieval armor, there's something for everyone to enjoy.  Home to Seurat's <em>A Sunday on La Grane Jatte.</em></p>
 
             <h3>Shedd Aquarium</h3>
-            <img src="images/aquarium.jpg", alt="Shedd Aquarium">
+            <img src="images/aquarium.jpg" alt="Shedd Aquarium">
             <p>The Shedd Aquarium features seven permanent exhibits, such as the Amazon and the Caribbean.  Fan favorites include penguins, sea lions, otters, and sharks.</p>
 
             <h3>Adler Planetarium</h3>
-            <img src="images/planetarium.jpg", alt="Adler Planetarium">
+            <img src="images/planetarium.jpg" alt="Adler Planetarium">
             <p>The Adler Planetarium features exhibits on the moon, solar system, and the history of the universe.  The domed Grainger Sky Theater creates an immersive viewing experience.  Home to the Gemini 12 capsule.</p>
             </div>
 
             <div class="right" style="background-color:#ccc;">
                 <h2>Attractions</h2>
-                <img src="images/flag.png", alt = "The Chicago flag">
+                <img src="images/flag.png" alt = "The Chicago flag">
 
             <ul class = "flex-box">
                 <li>

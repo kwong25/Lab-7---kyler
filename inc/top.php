@@ -5,6 +5,7 @@
         <title>Lab 7: US Cities</title>
         <link rel="stylesheet" href="css/styles.css">
     </head>
+    <body>
         <header>
                 <h1>US Cities</h1>
         </header>
@@ -16,4 +17,3 @@
                 <li><a href="ridgewood.php">Ridgewood</a></li>
             </ul>
         </nav>
-        <body>
