@@ -1,11 +1,5 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-        <title>Lab 7: US Cities</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
+<?php include "inc/top.php"?>
+
         <div class="middle" style="background-color:#bbb;">
             <h2>Image Gallery</h2>    
             <img src="images/field_museum.jpg", alt="Field Museum of Natural History">

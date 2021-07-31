@@ -1,22 +1,5 @@
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-        <title>Lab 7: US Cities</title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-    <body>
-        <header>
-                <h1>US Cities</h1>
-        </header>
-        <nav id="menu">
-            <ul class = "flex-box">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="chicago.html">Chicago</a></li>
-                <li><a href="phoenix.html">Phoenix</a></li>
-                <li><a href="ridgewood.html">Ridgewood</a></li>
-            </ul>
-        </nav>
+<?php include "inc/top.php"?>
+
 		<div class="grid-container">
 			<div class="header">
 			<h2>Ridgewood, NJ</h2>
