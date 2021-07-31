@@ -123,10 +123,7 @@
                 </li>
             </ul>
         </div>
-        <div class="footer">
-            <p>CSC 174 Advanced Front End Web Development</p>
+        <aside>
             <a href="gallery.html">Come check our image gallery!</a>
-        </div>
-        </div>
-    </body>
-</html>
+        </aside>
+        <?php include "inc/bottom.php"?>

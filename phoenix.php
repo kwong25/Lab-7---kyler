@@ -46,8 +46,4 @@
 
 			<p>Despite seeming like The Absolute Worst Plant to Plant, these satan cacti are everywhere. They're intentionally planted as landscaping and scattered throughout the large swaths of desert wash that are sprinkled throughout the city. When we say "stay on the paths" we say it in part so you don't get lost and die of heat stroke or dehydration but also so you don't run into one of these bastard cacti.</p>
 		</div>
-		<div class="footer">
-			<p>CSC 174 Advanced Front End Web Development</p>
-		</div>
-    </body>
-</html>
+<?php include "inc/bottom.php"?>

@@ -24,10 +24,4 @@
             <a href="ridgewood.html">Learn More</a>
             </div>
 
-    <div class="footer">
-        <p>CSC 174 Advanced Front End Web Development</p>
-    </div>
-
-        </div>
-    </body>
-</html>
+            <?php include "inc/bottom.php"?>

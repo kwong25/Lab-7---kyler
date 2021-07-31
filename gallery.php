@@ -19,10 +19,4 @@
             <img src="images/beach.jpg" alt="North Avenue Beach">
             <img src="images/wrigley_field.jpg" alt="Wrigley Field">
         </div>
-        <div class="footer">
-            <p>CSC 174 Advanced Front End Web Development</p>
-        </div>
-    </body>
-    </div>
-
-</html>
+        <?php include "inc/bottom.php"?>
